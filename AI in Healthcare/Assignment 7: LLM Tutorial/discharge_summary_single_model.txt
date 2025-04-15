@@ -1,0 +1,71 @@
+================================================================================
+SINGLE-MODEL RESULTS (LLAMA4 ONLY)
+================================================================================
+
+PATIENT: Otha286 Wintheiser220 (Age: 112)
+TARGET AUDIENCE: elderly
+
+--------------------------------------------------------------------------------
+**Discharge Summary for Otha286 Wintheiser220**
+
+**Date:** September 6, 2021
+
+**Dear Otha286,**
+
+We hope you're feeling comfortable and well-informed about your recent hospital visit. We're here to support you every step of the way.
+
+**Summary of Your Visit:**
+
+You came to the hospital for a general examination. Our team performed several procedures to ensure your health and well-being:
+
+* Screening for drug abuse
+* Assessment of substance use
+* Depression screening using Patient Health Questionnaire Two-Item score
+* Assessment using Morse Fall Scale
+* Assessment of health and social care needs
+
+**Your Current Health Conditions:**
+
+We want to make sure you're aware of your current health conditions and any medications you're taking:
+
+* Prediabetes (since 1940-12-16)
+* Chronic sinusitis (since 1947-06-11)
+* Osteoporosis (since 2003-05-26)
+* Stress (since 2020-08-31)
+
+**Medications:**
+
+Here's a list of your current medications, including dosages and schedules:
+
+* **Alendronic acid 10 MG Oral Tablet**: Take **1 pill once a week** (e.g., every Sunday) to help manage osteoporosis. **Take with water only, and avoid lying down for at least 30 minutes after taking.**
+
+**Follow-Up Care:**
+
+We recommend that you schedule a follow-up appointment with your primary care provider, Dr. John Smith, in **7 days** (by September 13, 2021). If you have any concerns or questions before then, please don't hesitate to reach out.
+
+**Warning Signs:**
+
+If you experience any of the following symptoms, please seek immediate medical attention:
+
+* Shortness of breath
+* Sudden confusion
+* Severe headache or dizziness
+
+**Additional Support:**
+
+If you need help with daily tasks or have concerns about your health, please don't hesitate to reach out to:
+
+* Your primary care provider, Dr. John Smith (800-555-9876)
+* Our hospital's crisis line (800-555-6789)
+* Mental health support services (800-555-4321)
+
+**We're Here to Support You:**
+
+We're committed to providing you with the best possible care. If you have any questions or concerns, please don't hesitate to reach out. We're here to support you every step of the way.
+
+**Sincerely,**
+
+Dr. Jane Doe, MD
+Attending Physician
+Example General Hospital
+(800-555-1234)

@@ -1,0 +1,9 @@
+patient_id,age,gender,triage_category,recent_conditions,rationale
+2a577eb8-be79-318c-3ef8-b34f96032748,109,M,EMERGENT,"Not in labor force (finding), Acute bacterial sinusitis (disorder), Full-time employment (finding)",
+179d9711-5c0f-958e-4466-2295daac7451,49,M,URGENT,"Acute viral pharyngitis (disorder), Epilepsy, Seizure disorder",
+b38f6f4d-8a9d-3d94-92f8-22704c8281a2,59,F,URGENT,"Part-time employment (finding), Stress (finding), Part-time employment (finding)",
+dee053f0-4e8c-4115-1f6c-80730ad7b01b,76,M,SEMI-URGENT,"Pneumonia, Full-time employment (finding), Viral sinusitis (disorder)",
+d042f0b1-7e1f-7adb-224d-991f597dade9,7,M,SEMI-URGENT,Acute bronchitis (disorder),
+e23c7a6e-6ef2-3932-1361-b73b4c8a3961,110,M,EMERGENT,"Stress (finding), Full-time employment (finding), Full-time employment (finding)",
+df0d49f8-6136-1388-b5ec-0a19e7539b15,30,M,URGENT,"Stress (finding), Social isolation (finding), Full-time employment (finding)",
+e35a7f38-bb1a-0c47-3a3e-8390f726ef08,5,F,SEMI-URGENT,None,

@@ -1,0 +1,84 @@
+================================================================================
+MULTI-MODEL RESULTS (DEEPSEEK-R1 + LLAMA4)
+================================================================================
+
+PATIENT: Otha286 Wintheiser220 (Age: 112)
+TARGET AUDIENCE: elderly
+
+--------------------------------------------------------------------------------
+# Discharge Summary for Otha286
+
+## Patient Information
+- **Patient Name:** Otha286  
+- **Preferred Name:** Otha286  
+- **Age:** 71  
+- **Gender:** Male  
+- **Visit Date:** Current Date  
+- **Attending Physician:** Dr. Smith, MD  
+- **Primary Care Provider:** Dr. Johnson (Rural Health Network)  
+- **Hospital:** Rural General Hospital  
+- **Hospital Contact:** 555-1234  
+
+## Reason for Visit
+You were admitted for **high blood pressure management**, with an **upcoming EGD scheduled in three months**. This follow-up is crucial to monitor any potential complications and ensure your cardiovascular health remains optimal.
+
+## Summary of Your Health
+You are managing several long-term conditions. These can sometimes affect how you feel or think, and it’s okay to ask for help. Below is a list of your ongoing conditions for your reference:
+
+- **Type 1 Diabetes**  
+- **High Blood Pressure (Hypertension)**  
+- **Past episodes of diabetic ketoacidosis**  
+
+## What You Need to Do Next
+
+### 1. **Follow-Up Care**
+Please **contact Dr. Johnson within 7 days** (by **November 11, 2021**). This is important to check on how you’re feeling after the injection and review your ongoing care.
+
+- **To schedule**: Call 555-9876  
+- **Ask about**: Blood pressure and blood sugar follow-up, anxiety management options  
+
+If transportation or housing is an issue for making your appointment, please let your provider know. Help is available.
+
+### 2. **Medications**
+
+Please continue taking your medications as directed. If you have any trouble remembering them, consider using a pill organizer or setting reminders on your phone.
+
+#### Current Medications
+
+| **Medication** | **Dosage** | **When to Take** | **Purpose** |
+| --- | --- | --- | --- |
+| **Metformin** | 800mg twice daily | **with breakfast and dinner** | Controls blood sugar and prevents diabetic ketoacidosis |
+| **Lisinopril** | 5mg once daily | **at bedtime** | Manages hypertension and reduces the risk of cardiovascular events |
+
+## Important Warning Signs
+
+Please go to the **Emergency Room or call 911** if you experience:
+
+- **Trouble breathing**  
+- **Severe chest pain or pressure**  
+- **Sudden confusion or acting differently than usual**  
+- **Fainting or feeling very dizzy**  
+- **Very high or very low blood sugar (shaking, sweating, blurry vision)**
+
+## Mental Health Support
+
+We know that managing chronic conditions can feel overwhelming. You’re not alone. If you need support, here are some resources:
+
+- **Mental Health Support Line**: 555-4321  
+- **Crisis Line (24/7)**: 555-6789  
+
+## Additional Information
+
+- **Allergies:** None known  
+- **Support Needs):** If housing or daily living is difficult, let your care team know. Help is available.  
+## Questions?
+
+If you have any questions or are unsure about anything in this summary:
+
+- **Hospital Main Line**: 555-1234  
+- **Dr. Johnson’s Office**: 555-9876  
+- **Pharmacy Help**: Available through your health plan or local pharmacist  
+
+## Thank you for trusting us with your care. You did great during your visit, and we’re here to support you every step of the way.**
+
+</end_header_id|
